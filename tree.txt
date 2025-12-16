@@ -1,0 +1,22 @@
+saborauto-static/
+├── index.html                          # Главная: тарифы и автомобили
+├── arenda-i-prokat-avtomobilej-v-permi.html   # Страница «Прокат»
+├── usloviya-arendy.html                # Страница «Условия аренды»
+├── kontakty.html                       # Страница «Контакты»
+│
+├── css/
+│   └── style.css                       # Общие стили и адаптив
+│
+├── js/
+│   └── main.js                         # Мобильное меню и простой JS
+│
+└── img/
+    ├── logo.png                        # Логотип (если нужен как картинка)
+    ├── kia-rio-4.jpg                   # Фото Kia Rio
+    ├── hyundai-solaris.jpg             # Фото Hyundai Solaris
+    ├── skoda-rapid.jpg                 # Фото Skoda Rapid
+    ├── moskvich-3.jpg                  # Фото Москвич 3
+    ├── vw-polo.jpg                     # Фото Volkswagen Polo
+    ├── changan-lamora.jpg              # Фото Changan Lamora
+    ├── changan-eado-plus.jpg           # Фото Changan EADO Plus
+    └── ...                             # Остальные изображения, если появятся
